@@ -1,4 +1,8 @@
-# vue-innovation_kitchen
+# Innovation Kitchen Frontend
+
+Base frontend code for community centered application. Connected to django backend on heroku.
+
+Login Details email - ayo@innkitchen.com password - admin1
 
 ## Project setup
 ```
